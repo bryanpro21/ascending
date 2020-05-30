@@ -1,0 +1,73 @@
+html , body{
+  padding: 0px;
+  margin: 0px;
+  font-size: 16px;
+  font-family: helvetica;
+  background: black;
+}
+
+nav{
+  background-color: black;
+  padding: 10px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav ul{
+  display: flex;
+  color: white;
+}
+
+nav li{
+  padding-right: 40px;
+  list-style: none;
+}
+
+nav li a{
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+nav li a:hover{
+  color: #9C00FF;
+}
+
+/* aqui acaba el nav */
+
+.segunda_imagen{
+text-align: center;
+
+}
+
+.main_section{
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+
+.informacion{
+  background-image: url("../images/cuadradoblanco.png");
+  height: 100%;
+  height: 200px;
+  display: flex;
+  text-align: center;
+}
+
+.informacion1 h1{
+
+  font-size: 16px;
+  text-align: center;
+  padding-left:80px;
+  padding-top: 10px;
+  padding-right: 400px;
+}
+
+.informacion1 p{
+
+  font-size: 14px;
+  text-align: left;
+  padding-left:80px;
+
+}

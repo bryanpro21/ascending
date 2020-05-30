@@ -1,0 +1,18 @@
+@media(mas-width:600px){
+.fondo{
+  display: inherit;
+  height: auto;
+  }
+.segunda_imagen{
+  margin-top: auto;
+}
+
+.main_section{
+  padding: 4%;
+}
+
+images/slogan normal.png{
+  display: inherit;
+}
+
+}
